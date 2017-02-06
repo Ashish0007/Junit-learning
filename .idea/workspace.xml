@@ -57,10 +57,14 @@
       <file leaf-file-name="GreetingImplTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/junit/training/GreetingImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5776699">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.68770224">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -760,7 +764,7 @@
       <created>1486377830057</created>
       <option name="number" value="Default" />
       <updated>1486377830057</updated>
-      <workItem from="1486377841065" duration="1445000" />
+      <workItem from="1486377841065" duration="2186000" />
     </task>
     <servers />
   </component>
@@ -771,6 +775,9 @@
     <history-entry file="GreetingImplTest - 2017.02.06 at 16h 38m 06s.xml">
       <configuration name="GreetingImplTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="GreetingImplTest - 2017.02.06 at 17h 59m 33s.xml">
+      <configuration name="GreetingImplTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="GreetingImplTest_testGreet - 2017.02.06 at 16h 26m 44s.xml">
       <configuration name="GreetingImplTest.testGreet" configurationId="JUnit" />
     </history-entry>
@@ -779,11 +786,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1445000" />
+    <option name="totallyTimeSpent" value="2186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -848,10 +855,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/junit/training/GreetingImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5776699">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.68770224">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
           </folding>
         </state>
       </provider>
